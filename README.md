@@ -15,7 +15,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## :bricks: This project was built with: 
 - [Awesome technology here](http://link.here.com)
 
-## :running_man: Installing and Running  
+## 🏄‍♂️ Quick Start
  1. Clone this repository `git clone https://github.com/pferreirafabricio/inmana.git`;
  2. Enter in the project's folder: `cd ?`
  3. Finally `...` 😃
