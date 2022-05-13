@@ -13,19 +13,13 @@
 </p>
 <br>
 
-## :eyes: Overview
-Put some images of your project here.
-
 ## :open_book: About 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## :bricks: This project was built with: 
-- [Awesome technology here](http://link.here.com)
 
 ## 🏄‍♂️ Quick Start
  1. Clone this repository `git clone https://github.com/pferreirafabricio/inmana.git`;
  2. Enter in the project's folder: `cd ?`
  3. Finally `...` 😃
- 
-## :page_with_curl:	License
-This project is under the ??? license. Take a look at the [LICENSE](LICENSE.md) file for more details.
+
+## :bricks: This project was built with: 
+- [Awesome technology here](http://link.here.com)
