@@ -28,12 +28,12 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - [Awesome technology here](http://link.here.com)
 
 ## 🏄‍♂️ Quick Start
- 1. Clone this repository `git clone https://github.com/pferreirafabricio/inmana.git`;
+ 1. Clone this repository `git clone https://github.com/pferreirafabricio/inmana.git`
  2. Enter in the project's folder: `cd ?`
  3. Finally `...` 😃
  
 ## :recycle: Contribute
- 1. Fork this repository;
+ 1. Fork this repository
  2. Create a branch with your feature: ```git checkout -b my-feature```
  3. Commit your changes: ```git commit -m 'feat: My new feature'```
  4. Push your branch: ```git push origin my-feature```
