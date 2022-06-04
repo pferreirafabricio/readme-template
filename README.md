@@ -47,4 +47,4 @@ This project is under the ??? license. Take a look at the [LICENSE](LICENSE) fil
 
 ## 📚 Learn more
 
-  * Guides: https://super.guide.com
+  * Introduction to Using OpenCV With Unity: https://www.raywenderlich.com/5475-introduction-to-using-opencv-with-unity
